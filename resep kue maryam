@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>roti maryam</title>
+</head>
+<body>
+    <h1 align="center">resep roti maryam</h1>
+    <img src="images/roti maryam.jpg" width="200" height="200" align="right">
+    <h2>bahan-bahan</h2>
+    <ul>
+        <li>250 gr tepung terigu</li>
+        <li>1 butir telur</li>
+        <li>3 sdm margarin, lelehkan</li>
+        <li>100 ml air hangat</li>
+        <li>2 sdm susu bubuk (optional)</li>
+        <li>1/2 sdt garam</li>
+        <li>margarin leleh untuk olesan</li>
+        <li>minyak untuk merendam</li>
+    </ul>
+    <hr>
+    <h2>langkah-langkah</h2>
+    <ol>
+        <li>campur semua bahan roti jadi satu</li>
+        <img src="images/langkah pertama.jpeg" width="150" height="150">
+        <li>uleni adonan hingga kalis menggunakan tangan</li>
+        <img src="images/langkah kedua.jpeg" width="150" height="150">
+        <li>adonan siap dibentuk/dipipihkan</li>
+        <img src="images/langkah ketiga.jpeg" width="150" height="150">
+    </ol>
+</body>
+</html>
